@@ -16,4 +16,5 @@
     <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
  \n Timestamp: %3$tr"</string>
     <string name="no_location">couldn\'t get location</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
